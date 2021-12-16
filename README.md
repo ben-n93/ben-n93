@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ben-n93
 - 👀 I’m interested in ... learning more about programming/Python.
-- 🌱 I’m currently learning ... Python!
+- 🌱 I’m currently learning ... Python/Django.
 - 💞️ I’m looking to collaborate on ... nothing at the moment.
 - 📫 How to reach me ... message me on Github!
 
