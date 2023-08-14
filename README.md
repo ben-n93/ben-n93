@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ben-n93
+# Hi! 👋
+
 - 👀 I’m interested in ... learning more about programming/Python.
 - 🌱 I’m currently learning ... Python/Django/PyQt5.
 - 💞️ I’m looking to collaborate on ... nothing at the moment.
