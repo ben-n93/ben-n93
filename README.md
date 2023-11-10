@@ -1,9 +1,13 @@
 # Hi! 👋
 
-- 👀 I’m interested in ... learning more about programming/Python.
-- 🌱 I’m currently learning ... Python/Django/PyQt5.
-- 💞️ I’m looking to collaborate on ... nothing at the moment.
-- 📫 How to reach me ... message me on Github!
+I'm a data analyst based in Sydney, Australia.
+
+- 🤖 I have a passion for creating tools, services and insights from open-source data, like a [Twitter bot](https://twitter.com/Gutenberg_SciFi) that posts recommendations of public domain science-fiction eBooks.
+  
+- 📖 Right now I'm focused on learning more about the [pandas](https://pandas.pydata.org/) library, data engineering and the [Flask](https://flask.palletsprojects.com/en/3.0.x/) web framework.
+  
+- 🌐 You can read more about me, including projects I've developed, on my [website](https://ben-nour.com/).
+- 📫 To get in contact [email](mailto:hello@ben-nour.com) me or reach out via [Twitter/X](https://twitter.com/ben_n_93).
 
 <!---
 ruthlesscattle/ruthlesscattle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
