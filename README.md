@@ -1,6 +1,6 @@
 # Hi! I'm Ben
 
-- I'm a data analyst based in Sydney, Australia 🇦🇺
+- I'm a data analyst from Sydney, Australia 🇦🇺
 - I work at a streaming service 📺
 - I'm focused right now on learning more about data engineering 🔨
 - I like to write about all things data - SQL, Tableau and more - on my [website](https://ben-nour.com/)  🌐
