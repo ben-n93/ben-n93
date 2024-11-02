@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+
 # Hi! I'm Ben
 
 - I'm a data analyst from Sydney, Australia 🇦🇺
@@ -6,8 +8,6 @@
 - I like to write about all things data - SQL, Tableau and more - on my [website](https://ben-nour.com/)  🌐
 - To get in contact [email](mailto:hello@ben-nour.com) me or reach out via [Twitter/X](https://twitter.com/benjamin_nour) 📫
 - Be sure to check out my pinned repositories to see some of my favourite projects 📍
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
 <!---
 ruthlesscattle/ruthlesscattle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
